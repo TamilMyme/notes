@@ -20,8 +20,8 @@ const departmentResources = {
                 {
                     name: "Programming in Python",
                     materials: [
-                        { type: "classNotes", url: "https:https://drive.google.com/file/d/1hyD1KtY8qVB6iWNHyR0TBZUZOV0bxkfA/view" },
-                        { type: "Questionbank", url: "https://drive.google.com/file/d/example2/view" },
+                        { type: "classNotes", url: "https://drive.google.com/file/d/1hyD1KtY8qVB6iWNHyR0TBZUZOV0bxkfA/view" },
+                        { type: "Questionbank", url: "https://drive.google.com/file/d/1lzznZDXkDXHmQe3AMJ-wlY4Oyelr-lSk/view?usp=drivesdk/view" },
                         { type: "universityQuestions", url: "https://drive.google.com/file/d/example3/view" },
                         { type: "amcetQuestions", url: "https://drive.google.com/file/d/example4/view" }
                     ]
